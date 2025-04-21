@@ -3,7 +3,7 @@ Developed an interactive Power BI dashboard for Nike Store, enhancing strategic 
 tionable recommendations for optimizing sales and profit across various dimensions
 
 
-#PROBLEM STATEMENT 
+# PROBLEM STATEMENT 
 
 KPI's (Key Point Indicators) 
 
