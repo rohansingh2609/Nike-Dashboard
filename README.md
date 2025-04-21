@@ -1,6 +1,5 @@
 # Nike-Dashboard
-Developed an interactive Power BI dashboard for Nike Store, enhancing strategic decision-making with dynamic visualizations
-tionable recommendations for optimizing sales and profit across various dimensions
+Developed an interactive Power BI dashboard for Nike Store, enhancing strategic decision-making with dynamic visualizations recommendations for optimizing sales and profit across various dimensions
 
 # BUSINESS REQUIREMENTS 
 Through this Power BI driven analysis, NIKE aims to empower its decision makers with data driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry. 
